@@ -19,5 +19,10 @@ A selenium script which logins to your Amazon account after inputting your login
 - Google Chrome is being used for this project
 Note: Please download appropriate google driver from this website `https://chromedriver.chromium.org/`
 
+
+### Demo Amazon Account Credentials 
+- Username:
+- Password:
+
 ### Author
 - Saee Gore
