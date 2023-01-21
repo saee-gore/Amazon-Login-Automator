@@ -21,8 +21,8 @@ Note: Please download appropriate google driver from this website `https://chrom
 
 
 ### Demo Amazon Account Credentials 
-- Username:
-- Password:
+- Username: codetesting200OK@gmail.com
+- Password: year2023
 
 ### Author
 - Saee Gore
