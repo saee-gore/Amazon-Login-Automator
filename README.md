@@ -6,7 +6,7 @@ A selenium script which logins to your Amazon account after inputting your login
 - Selenium Scripting
 - Familiarity with Test Cases
 
-### Usecase
+### Usecase #1: Considering you have an exisitng Amazon account
 
 - First the website `https://www.amazon.com/` will be opened
 - Navigation to the login page will be done
