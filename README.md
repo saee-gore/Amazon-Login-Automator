@@ -21,7 +21,7 @@ Note: Please download appropriate google driver from this website `https://chrom
 
 
 ### Demo Amazon Account Credentials 
-- Username: codetesting200OK@gmail.com
+- Username: codetesting200OK@gmail.com/testuser
 - Password: year2023
 
 ### Author
