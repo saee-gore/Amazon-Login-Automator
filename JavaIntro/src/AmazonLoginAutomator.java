@@ -9,7 +9,7 @@ public class AmazonLoginAutomator {
 		 *  1. Visiting amazon web-page
 		 *  2. Clicking on SignIn button
 		 *  3. Inputing Login Credentials
-		 *	4. Click on Submit button
+		 *  4. Click on Submit button
 		 *  5. Printing out to console about Login being a Success or Failure
 		 */
 			
