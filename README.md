@@ -16,7 +16,8 @@ A selenium script which logins to your Amazon account after inputting your login
 - Closing the browser
 
 ### Browser 
-- Google Chrome is being used for this project
+- Google Chrome is being used for this project. 
+- Other browsers can be used as well instead of Google Chrome. Appropriate browser driver needs to be downloaded fir it to work.
 Note: Please download appropriate google driver from this website `https://chromedriver.chromium.org/`
 
 
