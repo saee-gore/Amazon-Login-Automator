@@ -25,6 +25,7 @@ A selenium script which logins to your Amazon account after inputting your login
 ### Demo Amazon Account Credentials 
 - Username: codetesting200OK@gmail.com/testuser
 - Password: year2023
+Note: you may use this account for testing purposes only. Please do not send any emails to this email account.
 
 ### Author
 - Saee Gore
