@@ -27,5 +27,5 @@ A selenium script which logins to your Amazon account after inputting your login
 - Password: year2023
 Note: you may use this account for testing purposes only. Please do not send any emails to this email account.
 
-### Author
+### Author:
 - Saee Gore
