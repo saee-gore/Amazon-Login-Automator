@@ -15,6 +15,7 @@ A selenium script which logins to your Amazon account after inputting your login
 - Landing in your `Amazon account`
 - Closing the browser
 
+### Usecase #2: Checking a particular product on Amazon webpage for a particular zipcode and mall.
 ### Browser 
 - Google Chrome is being used for this project. 
 - Other browsers can be used as well instead of Google Chrome. 
