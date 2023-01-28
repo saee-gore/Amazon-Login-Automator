@@ -15,7 +15,16 @@ A selenium script which logins to your Amazon account after inputting your login
 - Landing in your `Amazon account`
 - Closing the browser
 
-### Usecase #2: Checking a particular product on Amazon webpage for a particular zipcode and mall.
+### Usecase #2: Checking a particular product on Amazon webpage for a particular zipcode and mall
+
+- Navigate to the Amazon webpage and go to near me
+- Enter the zipcode for testing purposes e.g. 29801
+- Search a merchant on that webpage and select a product
+- Visit the all offers slider and check if you see the desired nearest mall in that list
+- Boom! You are done finishing your desired mall for that particular product.
+
+
+
 ### Browser 
 - Google Chrome is being used for this project. 
 - Other browsers can be used as well instead of Google Chrome. 
