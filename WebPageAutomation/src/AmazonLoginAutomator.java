@@ -19,6 +19,6 @@ public class AmazonLoginAutomator {
 		amazonWebDriver.get("https://www.amazon.com/");
 		amazonWebDriver.findElement(By.xpath("//a[@class='nav-a nav-a-2   nav-progressive-attribute']/div[1]")).click();
 		System.out.print("By using Selenium, you clicked the 'Sign In' button of the Amazon website and now you are on the 'Sign In' page now!");
-		amazonWebDriver.close();
+		amazonWebDriver.close();//to close the browser opened by selenium
 	}
 }
