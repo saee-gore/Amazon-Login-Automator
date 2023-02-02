@@ -6,7 +6,7 @@ A selenium script which logins to your Amazon account after inputting your login
 - Selenium Scripting
 - Familiarity with Test Cases
 
-### Usecase #1: Considering you have an exisitng Amazon account
+### Usecase: Considering you have an exisitng Amazon account
 
 - First the website `https://www.amazon.com/` will be opened
 - Navigation to the login page will be done
@@ -25,7 +25,7 @@ A selenium script which logins to your Amazon account after inputting your login
 ### Demo Amazon Account Credentials 
 - Username: codetesting200OK@gmail.com/testuser
 - Password: year2023
-Note: you may use this account for testing purposes only. Please do not send any emails to this email account.
+(Note: you may use this account for testing purposes only. Please do not send any emails to this email account.)
 
 ### Author:
 - Saee Gore
